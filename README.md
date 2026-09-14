@@ -282,7 +282,7 @@ The complete ER diagram is available in the `er-diagram` directory.
 
 | Team Member | Role | Contributions |
 |---|---|---|
-| **Rahamtulla** | Database Architect & Backend Developer | Designed the ER diagram and overall database schema. Created the `airline`, `pilot`, `flight`, `passenger`, `booking`, `seat`, `payment`, and `baggage` tables. Defined primary keys, foreign keys, and data constraints. Developed and tested SQL queries for data retrieval, analytics, and revenue reporting. |
+| **Shaik Rahamtulla** | Database Architect & Backend Developer | Designed the ER diagram and overall database schema. Created the `airline`, `pilot`, `flight`, `passenger`, `booking`, `seat`, `payment`, and `baggage` tables. Defined primary keys, foreign keys, and data constraints. Developed and tested SQL queries for data retrieval, analytics, and revenue reporting. |
 | **Challa Charan Kumar** | Data Engineer & Documentation | Populated the database with sample data across all tables. Performed data validation and integrity checks. Executed and verified SQL queries and organized query outputs. Prepared project documentation and repository guidelines. |
 
 ---
