@@ -197,7 +197,7 @@ USE airline_reservation;
 Copy the SQL queries from table_creation.sql file and execute them in MySQL or Execute the table creation SQL script:
 
 ```sql
-SOURCE sql/table_creation.sql;
+SOURCE sql/database_setup.sql;
 ```
 
 Or open the SQL file in MySQL Workbench and execute it.
